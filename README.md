@@ -1,7 +1,5 @@
 # Project Altus: GKE Global Batch Engine
 
-# Project Altus: GKE Global Batch Engine
-
 **Project Altus** is a reference implementation of the **"Divide" architectural strategy** for Google Kubernetes Engine (GKE). [cite_start]It demonstrates how to orchestrate a distributed batch processing engine capable of executing **10,000 concurrent risk calculations** (financial simulations) in under **20 minutes**[cite: 200].
 
 ## 📋 Executive Summary
