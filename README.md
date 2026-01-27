@@ -41,7 +41,7 @@ Legacy cluster architectures often hit physical limits when scaling burst worklo
 │   └── workers/          # Configs for Compute Planes (Spot VMs, Job Runners) [cite: 253]
 ├── namespaces/           # Namespace quotas and RBAC
 └── workloads/            # The Batch Job Manifests
-
+```
 
 ⚙️ Execution Flow
 
